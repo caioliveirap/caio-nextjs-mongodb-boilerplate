@@ -68,6 +68,7 @@
 				]
 			}
 		},
+
 		// Configuration for e2e testing (Cypress)
 		{
 			"files": ["cypress/**/*.ts"],
